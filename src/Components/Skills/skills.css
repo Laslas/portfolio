@@ -1,0 +1,27 @@
+.skills-div {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.service-ul {
+    background-color: var(--blue);
+    height: 20vh;
+    width: 20.5vw;
+    margin: 5px;
+    margin-bottom: 10px;
+    padding: 3%;
+    color: var(--text);
+}
+
+.service-svg {
+    fill: var(--text);
+    margin-bottom: 7%;
+
+}
+
+.service-title {
+    font-weight: bold;
+    font-size: 20px;
+}

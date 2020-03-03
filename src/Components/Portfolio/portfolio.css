@@ -1,0 +1,17 @@
+.portfolio-div {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.works-ul {
+    height: 38vh;
+    width: 20vw;
+    margin: 5px;
+}
+
+.works-img {
+    height: 36vh;
+    width: 20vw;
+}

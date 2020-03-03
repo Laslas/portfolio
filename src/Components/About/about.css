@@ -1,0 +1,62 @@
+.about {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--blue);
+    padding: 7% 11%;
+    margin-top: -10vh;
+    margin-bottom: 5vh;
+    color: var(--text);
+}
+
+.about-content {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0;
+
+}
+
+.about-text {
+    width: 50%;
+}
+
+.about-box {
+    width: 100%;
+    line-height: 1.5;
+
+}
+
+.about-title {
+    font-size: 40px;
+}
+
+.about-ul-div {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.about-ul {
+    width: 35%;
+
+
+
+}
+
+.about-li {
+    margin-bottom: 5px;
+}
+
+.about-li:first-child,
+.about-span {
+    font-weight: bold;
+}
+
+.check-div {
+    display: flex;
+    align-items: center;
+}
+
+.check-div>svg {
+    fill: green;
+}

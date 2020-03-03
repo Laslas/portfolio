@@ -1,0 +1,29 @@
+.pageTitle-small-black {
+    font-size: 21px;
+    color: var(--black);
+}
+
+.pageTitle-small-main {
+    font-size: 16px;
+    color: var(--blue);
+    margin-bottom: 2px;
+}
+
+.pageTitle-small-contact {
+    font-size: 21px;
+    color: var(--blue);
+    margin-bottom: 2%;
+}
+
+.pageTitle-small-footer {
+    font-size: 12px;
+    color: var(--footer);
+    margin: 1%;
+}
+
+.pageTitle-small-footerBold {
+    font-size: 16px;
+    font-weight: bold;
+    color: var(--footer);
+    margin: 1%;
+}

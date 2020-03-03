@@ -1,0 +1,32 @@
+.nav-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.nav-name {
+    font-size: 40px;
+
+}
+
+.nav-dot {
+    color: var(--blue);
+    font-size: 46px;
+}
+
+.nav-ul {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.nav-li {
+    margin-left: 9px;
+    font-size: 15px;
+    color: var(--black);
+}
+
+.nav-li:hover {
+    color: var(--blue);
+}

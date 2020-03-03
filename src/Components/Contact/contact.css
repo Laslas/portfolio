@@ -1,0 +1,20 @@
+.clear {
+    background-image: url('../imgs/photo.jpg');
+    width: 100%;
+    /* The image used */
+
+
+    /* Full height */
+    min-height: 45vh;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contact {
+    text-align: center;
+    padding: 7%;
+}

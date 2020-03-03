@@ -1,0 +1,18 @@
+.pageTitle-large-black {
+    font-size: 48px;
+    color: var(--black);
+
+}
+
+.pageTitle-large-main {
+    font-size: 48px;
+    margin-top: 2px;
+    color: var(--black);
+
+}
+
+.pageTitle-large-about {
+    font-size: 48px;
+    color: var(--text);
+
+}

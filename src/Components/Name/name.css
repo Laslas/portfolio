@@ -1,0 +1,9 @@
+.name-primary {
+    color: var(--black);
+    font-size: 40px;
+}
+
+.name-secondary {
+    color: var(--footer);
+    font-size: 40px;
+}
